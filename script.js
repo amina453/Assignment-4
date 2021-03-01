@@ -1,6 +1,5 @@
 let name = document.getElementById("bride_name").value;
 let love_letter = document.getElementById("letter").value;
-price = getCheckboxValuesReduce(skills, price)
 const skills = document.getElementsByClassName("skills");
 const age = document.getElementsByName("age");
 
